@@ -3,5 +3,10 @@
   "buildCommand": "npm run build",
   "outputDirectory": ".",
   "framework": "express",
+  "functions": {
+    "index.js": {
+      "includeFiles": "public/**"
+    }
+  },
   "regions": ["sin1"]
 }
