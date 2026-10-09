@@ -1,0 +1,6 @@
+:root{font-family:'DM Sans','Segoe UI',Arial,sans-serif}
+.hero h1{font-family:Manrope,'Segoe UI',Arial,sans-serif}
+.loginCard h2,.brand b,.content h1,.panel h2,.drawer h2{font-family:Manrope,'Segoe UI',Arial,sans-serif}
+.stepTag{align-self:flex-start}
+.drawerHelp{color:#647169;font-size:14px;margin-top:-12px}
+.actions .approve{grid-column:1/-1}
